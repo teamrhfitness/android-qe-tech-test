@@ -12,8 +12,8 @@ For this tech-test, we have created a sample app that has a list of items. Each 
 **Debug APK under test - teamrh-sample-app.apk**
 
 ## Task: 
-Create a test framework using Appium (language - Javascript) and write tests for the above app. 
-Coding language - Feel free to choose laguage of your choice
+Create a test framework using Appium and write tests for the above app. 
+Coding language - JavaScript
 
 Once completed please share your project on Github with Suman Bala, Lead QE (suman.bala@teamrhfitness.com) and Ciaran Sloan, Lead Android Engineer (ciaran.sloan@teamrhfitness.com) along with a README that contains a brief description of your implementation and what you would like to have added if you had more time.
 
