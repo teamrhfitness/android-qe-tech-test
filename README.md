@@ -15,7 +15,7 @@ For this tech-test, we have created a sample app that has a list of items. Each 
 Create a test framework using Appium and write tests for the above app. 
 Coding language - JavaScript
 
-Once completed please share your project on Github with Faith Whittaker (faith.whittaker@teamrhfitness.com) or Holly Beattie (holly.beattie@teamrhfitness.com) along with a README that contains a brief description of your implementation and what you would like to have added if you had more time.
+Once completed please share your GitHub project link with hr@teamrhfitness.com along with a README that contains a brief description of your implementation and what you would like to have added if you had more time.
 
 Please don't hesitate to contact us if you need any clarification on the test. Thanks for your time, we look forward to hearing from you!
 
